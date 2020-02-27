@@ -231,7 +231,7 @@ plot_histogram(counts)
 ################################################################################################################
 ###################################    Final Result  #######################################################
 
-# When we do the parameter optimization process with the analytics option turned on, we can see that the analytical optimal rotations will be:
+# When we do the parameter optimization process with the analytics option turned on, we can see that the optimal rotations will be:
 #    rx= 0
 #    ry= 1.5693563339409906
     
