@@ -244,6 +244,6 @@ plot_histogram(counts)
 
 ## How to make sure you produce state |00>+|11> and not |00>-|11> ?
 # R = By using the Hermitian Operator. 
-#     When you use the Hermitian Operator, you have the certainty that the result of the parameter optimization process will be calculated in order to fit the states that you want (In this case a Bell State) and that you have introduced in your A Matrix
+#     When you use the Hermitian Operator, you have the certainty that the result of the parameter optimization process will be calculated in order to fit the states that you want (In this case a Bell State) and that you have introduced in your Matrix A.
 
 
